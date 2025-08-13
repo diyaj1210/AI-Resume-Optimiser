@@ -53,5 +53,6 @@ resume/
 ## 📝 Sample Job Description
 The app includes a sample job description for a Python Developer position that you can use for testing or as a template.
 
-## License
+## 📄 License
+This project is licensed under the MIT License
 
